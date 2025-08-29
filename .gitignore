@@ -4,7 +4,8 @@ node_modules/
 # Compiled bundle file
 bundle.js
 
-# Logs
+# Logs directory
 logs/
-# Environment variables
+
+# Environment variables (not to be tracked for security reasons)
 .env
