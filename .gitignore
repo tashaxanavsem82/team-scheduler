@@ -1,2 +1,5 @@
+# Node.js dependencies
 node_modules/
+
+# Compiled bundle file
 bundle.js
