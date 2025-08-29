@@ -1,7 +1,7 @@
 {
   "name": "team-scheduler",
   "version": "1.0.0",
-  "description": "A web-based application to help teams schedule meetings and events collaboratively.",
+  "description": "A web-based application designed to assist teams in scheduling meetings and events collaboratively.",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
