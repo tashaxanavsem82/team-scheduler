@@ -3,3 +3,8 @@ node_modules/
 
 # Compiled bundle file
 bundle.js
+
+# Logs
+logs/
+# Environment variables
+.env
